@@ -1,0 +1,1 @@
+let luckyNum = 32;
